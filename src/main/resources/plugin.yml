@@ -1,0 +1,8 @@
+name: SoupPvP
+author: "elijuh"
+version: ${project.version}
+depend:
+  - PlaceholderAPI
+  - Dependencies
+  - WorldEdit
+main: me.elijuh.soup.Core
